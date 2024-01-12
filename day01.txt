@@ -1,3 +1,4 @@
 1.introduction
 2. ls, ls -a (linux 명령어) 
 3. git init, git status, git config .... (git 명령어)
+4. git log, git checkout 해시코드, git checkout - (git 명령어)
